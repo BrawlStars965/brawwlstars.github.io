@@ -1,1 +1,1 @@
-const LINK = 'https://t.me/+KWo3REykiNNlZjdi';
+const LINK = 'https://t.me/+HPskJ8l5Cfg5OGMy';
